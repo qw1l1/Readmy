@@ -6,4 +6,5 @@
 | Кристина | Google Form | 5/5 | - |
 | Андрей | Google Form | 3/5 | Сделать удобней добавление блюд |
 | Максим | Google Form | 5/5 | - |
+
 #Форма с опросом: https://forms.gle/C6228ayemnoD5a1cA
